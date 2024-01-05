@@ -1,6 +1,6 @@
 # TIC-Project
  this is our TIC / Bureautique and Web module's final project
- and this have been created by the Group 45
+ and this have been created by Group 45
  ==========================
  1-hamroun sami abdelmalek
  ==========================
